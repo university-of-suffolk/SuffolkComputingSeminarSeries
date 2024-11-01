@@ -2,6 +2,7 @@
 
 ### S01
 
+- E00: Test Stream: [LinkedIn Event](https://www.linkedin.com/events/7257446354610733057) 〰️ [YouTube](https://www.youtube.com/watch?v=vRrcNi2AKK0) 〰️ [Slides](https://docs.google.com/presentation/d/1CxWLsvV-ea89_S2ps870qqg_NdAbIYUOD9rQty9oYpc/edit?usp=sharing)
 - E01: The Future of AI in Business: Opportunities and Challenges
 - E02: Computing Toolbox: 5 best Diagrammes as code tools (mermaid.js, apps.diagrams.net, eraser.io, Latex
 - E03: Digital Transformation Strategies for SMEs
