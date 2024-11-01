@@ -1,13 +1,13 @@
 # Suffolk Computing Seminar Series
 
-S01
+### S01
 
-E01: The Future of AI in Business: Opportunities and Challenges
-E02: Computing Toolbox: 5 best Diagrammes as code tools (mermaid.js, apps.diagrams.net, eraser.io, Latex
-E03: Digital Transformation Strategies for SMEs
-E04: Computing Toolbox: Getting to know Github part 1
-E05: The new UK Data Bill: an overview, challenges and opportunities
-E06: Computing Toolbox: Getting to know Github part 2
+- E01: The Future of AI in Business: Opportunities and Challenges
+- E02: Computing Toolbox: 5 best Diagrammes as code tools (mermaid.js, apps.diagrams.net, eraser.io, Latex
+- E03: Digital Transformation Strategies for SMEs
+- E04: Computing Toolbox: Getting to know Github part 1
+- E05: The new UK Data Bill: an overview, challenges and opportunities
+- E06: Computing Toolbox: Getting to know Github part 2
 
 
 
