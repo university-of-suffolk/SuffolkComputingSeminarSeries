@@ -1,4 +1,4 @@
-# SuffolkComputingSeminarSeries
+# Suffolk Computing Seminar Series
 
 
 
