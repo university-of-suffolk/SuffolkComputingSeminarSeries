@@ -2,13 +2,31 @@
 
 ### S01
 
-- E00: Test Stream: [LinkedIn Event](https://www.linkedin.com/events/7257446354610733057) 〰️ [YouTube](https://www.youtube.com/watch?v=vRrcNi2AKK0) 〰️ [Slides](https://docs.google.com/presentation/d/1CxWLsvV-ea89_S2ps870qqg_NdAbIYUOD9rQty9oYpc/edit?usp=sharing)
-- E01: The Future of AI in Business: Opportunities and Challenges
-- E02: Computing Toolbox: 5 best Diagrammes as code tools (mermaid.js, apps.diagrams.net, eraser.io, Latex
-- E03: Digital Transformation Strategies for SMEs
-- E04: Computing Toolbox: Getting to know Github part 1
-- E05: The new UK Data Bill: an overview, challenges and opportunities
-- E06: Computing Toolbox: Getting to know Github part 2
+- (01 NOV 2024) E00: Test Stream: [LinkedIn Event](https://www.linkedin.com/events/7257446354610733057) 〰️ [YouTube](https://www.youtube.com/watch?v=vRrcNi2AKK0) 〰️ [Slides](https://docs.google.com/presentation/d/1CxWLsvV-ea89_S2ps870qqg_NdAbIYUOD9rQty9oYpc/edit?usp=sharing)
+- (08 NOV 2024) E01: The Future of AI in Business: Opportunities and Challenges
+- (15 NOV 2024) E02: Computing Toolbox: 5 best Diagrammes as code tools (mermaid.js, apps.diagrams.net, eraser.io, Latex
+- (22 NOV 2024) E03: Digital Transformation Strategies for SMEs
+- (29 NOV 2024) E04: Computing Toolbox: Getting to know Github part 1
+- (06 DEC 2024) E05: The new UK Data Bill: an overview, challenges and opportunities
+- (20 DEC 2024) E06: Computing Toolbox: Getting to know Github part 2
+
+[break for Christmas]
+
+- (27 DEC 2024) E07:
+- (10 JAN 2025) E08:
+- (17 JAN 2025) E09:
+- (24 JAN 2025) E10:
+- (31 JAN 2025) E11:
+  
+- (07 FEB 2025) E12:
+- (14 FEB 2025) E13:
+- (21 FEB 2025) E14:
+- (28 FEB 2025) E15:
+
+- (07 MAR 2025) E16:
+- (14 MAR 2025) E17:
+- (21 FEB 2025) E18:
+- (28 MAR 2025) E19: 
 
 
 
