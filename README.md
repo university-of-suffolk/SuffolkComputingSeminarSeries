@@ -11,22 +11,21 @@
 - (20 DEC 2024) E06: The new UK Data Bill: an overview, challenges and opportunities
 
 [break for Christmas]
-
-- (27 DEC 2024) E07: Computing Toolbox: Getting to know Github part 1
-- (10 JAN 2025) E08: Computing Toolbox: Getting to know Github part 2
-- (17 JAN 2025) E09: The new UK Data Bill: an overview, challenges and opportunities
-- (24 JAN 2025) E10:
-- (31 JAN 2025) E11:
+ 
+- (10 JAN 2025) E07: Computing Toolbox: Getting to know Github part 1
+- (17 JAN 2025) E08: Computing Toolbox: Getting to know Github part 2
+- (24 JAN 2025) E09:
+- (31 JAN 2025) E10:
   
-- (07 FEB 2025) E12:
-- (14 FEB 2025) E13:
-- (21 FEB 2025) E14:
-- (28 FEB 2025) E15:
+- (07 FEB 2025) E11:
+- (14 FEB 2025) E12:
+- (21 FEB 2025) E13:
+- (28 FEB 2025) E14:
 
-- (07 MAR 2025) E16:
-- (14 MAR 2025) E17:
-- (21 FEB 2025) E18:
-- (28 MAR 2025) E19: 
+- (07 MAR 2025) E15:
+- (14 MAR 2025) E16:
+- (21 FEB 2025) E17:
+- (28 MAR 2025) E18: 
 
 
 
