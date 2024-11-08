@@ -6,15 +6,15 @@
 - (08 NOV 2024) E01: The Future of AI in Business: Opportunities and Challenges [LinkedIn Event](https://www.linkedin.com/events/7260595382986940416/about/)
 - (15 NOV 2024) E02: Computing Toolbox: 5 best Diagrammes as code tools (mermaid.js, apps.diagrams.net, eraser.io, Latex
 - (22 NOV 2024) E03: Digital Transformation Strategies for SMEs
-- (29 NOV 2024) E04: Computing Toolbox: Getting to know Github part 1
-- (06 DEC 2024) E05: The new UK Data Bill: an overview, challenges and opportunities
-- (20 DEC 2024) E06: Computing Toolbox: Getting to know Github part 2
+- (29 NOV 2024) E04: Computing Toolbox: Creating a web crawler
+- (06 DEC 2024) E05: Digital Futures Institute Technology Talks: Paul Graham: ORACLE AI - Concepts, tools and applications
+- (20 DEC 2024) E06: The new UK Data Bill: an overview, challenges and opportunities
 
 [break for Christmas]
 
-- (27 DEC 2024) E07:
-- (10 JAN 2025) E08:
-- (17 JAN 2025) E09:
+- (27 DEC 2024) E07: Computing Toolbox: Getting to know Github part 1
+- (10 JAN 2025) E08: Computing Toolbox: Getting to know Github part 2
+- (17 JAN 2025) E09: The new UK Data Bill: an overview, challenges and opportunities
 - (24 JAN 2025) E10:
 - (31 JAN 2025) E11:
   
