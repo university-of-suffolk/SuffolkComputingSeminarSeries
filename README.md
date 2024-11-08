@@ -7,7 +7,7 @@
 - (15 NOV 2024) E02: Computing Toolbox: 5 best Diagrammes as code tools (mermaid.js, apps.diagrams.net, eraser.io, Latex
 - (22 NOV 2024) E03: Digital Transformation Strategies for SMEs
 - (29 NOV 2024) E04: Computing Toolbox: Creating a web crawler
-- (06 DEC 2024) E05: Digital Futures Institute Technology Talks: Paul Graham: ORACLE AI - Concepts, tools and applications
+- (06 DEC 2024) E05: Digital Futures Institute Talks: Paul Graham: ORACLE AI - Concepts, tools and applications
 - (20 DEC 2024) E06: The new UK Data Bill: an overview, challenges and opportunities
 
 [break for Christmas]
