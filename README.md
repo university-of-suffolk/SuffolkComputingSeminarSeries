@@ -1,10 +1,10 @@
-# Suffolk Computing Seminar Series
+# Computing Seminar Series
 
 ### S01
 
 - (01 NOV 2024) E00: Test Stream: [LinkedIn Event](https://www.linkedin.com/events/7257446354610733057) 〰️ [YouTube](https://www.youtube.com/watch?v=vRrcNi2AKK0) 〰️ [Slides](https://docs.google.com/presentation/d/1CxWLsvV-ea89_S2ps870qqg_NdAbIYUOD9rQty9oYpc/edit?usp=sharing)
-- (08 NOV 2024) E01: The Future of AI in Business: Opportunities and Challenges [LinkedIn Event](https://www.linkedin.com/events/7260595382986940416/about/)
-- (15 NOV 2024) E02: Computing Toolbox: 5 best Diagrammes as code tools (mermaid.js, apps.diagrams.net, eraser.io, Latex
+- (08 NOV 2024) E01: The Future of AI in Business: Opportunities and Challenges [LinkedIn Event](https://www.linkedin.com/events/7260595382986940416/about/) 〰️[YouTube]() 〰️ [Slides](https://docs.google.com/presentation/d/1LUT4MesutVMlErulYvSeMo2rVzllRumNuFi8vq28riA/edit?usp=sharing)
+- (15 NOV 2024) E02: Computing Toolbox: 5 best Diagrammes as code tools (mermaid.js, apps.diagrams.net, eraser.io, Latex [LinkedIn Event](https://www.linkedin.com/events/computinglunchtimeseminarseries7263114384766345216/comments/) 〰️ [Youtube]() 〰️ [Slides](https://docs.google.com/presentation/d/18Bmd1pW4HRfr7PZ1Ivu2c6ytVdEdUMKvVIFNXR3v62c/edit?usp=sharing)
 - (22 NOV 2024) E03: Digital Transformation Strategies for SMEs
 - (29 NOV 2024) E04: Computing Toolbox: Creating a web crawler
 - (06 DEC 2024) E05: Digital Futures Institute Talks: Paul Graham: ORACLE AI - Concepts, tools and applications
