@@ -5,30 +5,30 @@
 - (01 NOV 2024) E00: Test Stream: [LinkedIn Event](https://www.linkedin.com/events/7257446354610733057) 〰️ [YouTube](https://www.youtube.com/watch?v=vRrcNi2AKK0) 〰️ [Slides](https://docs.google.com/presentation/d/1CxWLsvV-ea89_S2ps870qqg_NdAbIYUOD9rQty9oYpc/edit?usp=sharing)
 - (08 NOV 2024) E01: The Future of AI in Business: Opportunities and Challenges [LinkedIn Event](https://www.linkedin.com/events/7260595382986940416/about/) 〰️[YouTube]() 〰️ [Slides](https://docs.google.com/presentation/d/1LUT4MesutVMlErulYvSeMo2rVzllRumNuFi8vq28riA/edit?usp=sharing)
 - (15 NOV 2024) E02: Computing Toolbox: 5 best Diagrammes as code tools (mermaid.js, apps.diagrams.net, eraser.io [LinkedIn Event](https://www.linkedin.com/events/computinglunchtimeseminarseries7263114384766345216/comments/) 〰️ [Youtube]() 〰️ [Slides](https://docs.google.com/presentation/d/18Bmd1pW4HRfr7PZ1Ivu2c6ytVdEdUMKvVIFNXR3v62c/edit?usp=sharing)
-- (22 NOV 2024) E03: Digital Transformation Strategies for SMEs
-- (29 NOV 2024) E04: Computing Toolbox: Creating a web crawler
-- (06 DEC 2024) E05: Digital Futures Institute Talks: Paul Graham: ORACLE AI - Concepts, tools and applications
-- (20 DEC 2024) E06: The new UK Data Bill: an overview, challenges and opportunities
+- (22 NOV 2024) : No lecture this week
+- (29 NOV 2024) E03: Computing Toolbox: Creating a web crawler
+- (06 DEC 2024) E04: Digital Futures Institute Talks: Paul Graham: ORACLE AI - Concepts, tools and applications
+- (20 DEC 2024) E05: The new UK Data Bill: an overview, challenges and opportunities
 
 [break for Christmas]
  
-- (10 JAN 2025) E07: Computing Toolbox: Getting to know Github part 1
-- (17 JAN 2025) E08: Computing Toolbox: Getting to know Github part 2
-- (24 JAN 2025) E09:
-- (31 JAN 2025) E10:
+- (10 JAN 2025) E06: Computing Toolbox: Getting to know Github part 1
+- (17 JAN 2025) E07: Computing Toolbox: Getting to know Github part 2
+- (24 JAN 2025) E08: Digital Transformation Strategies for SMEs
+- (31 JAN 2025) E09:
   
-- (07 FEB 2025) E11:
-- (14 FEB 2025) E12:
-- (21 FEB 2025) E13:
-- (28 FEB 2025) E14:
+- (07 FEB 2025) E10:
+- (14 FEB 2025) E11:
+- (21 FEB 2025) E12:
+- (28 FEB 2025) E13:
 
-- (07 MAR 2025) E15:
-- (14 MAR 2025) E16:
-- (21 FEB 2025) E17:
-- (28 MAR 2025) E18: 
+- (07 MAR 2025) E14:
+- (14 MAR 2025) E15:
+- (21 FEB 2025) E16:
+- (28 MAR 2025) E17: 
 
 
-
+<!--
 ## Possible topics
 
 1. **The Future of AI in Business: Opportunities and Challenges**
@@ -154,4 +154,28 @@
     - Emerging tools and libraries in AI
     - Preparing for the future of AI development
 
-?
+Links to resources: All the FREE Stanford University Machine Learning Lectures 👇
+
+Learn about Probability, NLP, LLMs, Transformers, and more ...
+
+1. Probability for Computer Scientists - https://lnkd.in/e6sCyZGj
+
+2. Machine Learning Full Course taught by Andrew Ng - https://lnkd.in/eWs74qyR
+
+3. NLP with Deep Learning - https://lnkd.in/eazqcvmk
+
+4. Machine Learning Explainability - https://lnkd.in/evimZ5Za
+
+5. Reinforcement Learning - https://lnkd.in/eEf5PETJ
+
+6. Deep Generative Models - https://lnkd.in/euZ2e3xU
+
+7. Building Large Language Models (LLMs) - https://lnkd.in/eVUkaJuF
+
+8. Machine Learning with Graphs - https://lnkd.in/eF_d3iwq
+
+9. Transformers United - https://lnkd.in/eXdGBqQq
+
+👉 Get free resources, curated articles, and expert tips on Data and AI: https://lnkd.in/e7EunZck
+
+?-->
