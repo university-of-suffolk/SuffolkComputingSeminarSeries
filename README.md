@@ -1,4 +1,5 @@
-# Computing Seminar Series
+# Suffolk Digital Futures Institute 
+## Computing Seminar Series
 
 ### S01
 
