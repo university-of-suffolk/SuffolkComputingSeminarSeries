@@ -14,11 +14,11 @@
 [break for Christmas]
  
 - (10 JAN 2025) : no lecture this week
-- (17 JAN 2025) E06: Computing Toolbox: Getting to know Github part 1
-- (24 JAN 2025) E07: Computing Toolbox: Getting to know Github part 2
-- (31 JAN 2025) E08: Digital Transformation Strategies for SMEs
+- (17 JAN 2025) E06: Computing Toolbox: Github: Version control and issue tracking, Project management tools
+- (24 JAN 2025) E07: Computing Toolbox: Github: Codespaces
+- (31 JAN 2025) E08: Computing Toolbox: Github: Automation and Orchestration
   
-- (07 FEB 2025) E09:
+- (07 FEB 2025) E09: Digital Transformation Strategies for SMEs
 - (14 FEB 2025) E10:
 - (21 FEB 2025) E11:
 - (28 FEB 2025) E12:
