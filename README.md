@@ -14,7 +14,7 @@ Meetings were on Fridays at 12.30
 
 [break for Christmas]
 
-# S01 - meetings are on Mondays at 12.30
+### S01 - meetings are on Mondays at 12.30
  
 <!--
 - (Wed 29 JAN 2025) E06: Computing Toolbox: Github: Codespaces
