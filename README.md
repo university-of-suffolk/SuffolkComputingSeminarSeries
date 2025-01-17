@@ -2,31 +2,34 @@
 ## Computing Seminar Series
 
 ### S01
+Meetings were on Fridays at 12.30
 
-- (01 NOV 2024) E00: Test Stream: [LinkedIn Event](https://www.linkedin.com/events/7257446354610733057) 〰️ [YouTube](https://www.youtube.com/watch?v=vRrcNi2AKK0) 〰️ [Slides](https://docs.google.com/presentation/d/1CxWLsvV-ea89_S2ps870qqg_NdAbIYUOD9rQty9oYpc/edit?usp=sharing)
-- (08 NOV 2024) E01: The Future of AI in Business: Opportunities and Challenges [LinkedIn Event](https://www.linkedin.com/events/7260595382986940416/about/) 〰️[YouTube]() 〰️ [Slides](https://docs.google.com/presentation/d/1LUT4MesutVMlErulYvSeMo2rVzllRumNuFi8vq28riA/edit?usp=sharing)
-- (15 NOV 2024) E02: Computing Toolbox: 5 best Diagrammes as code tools (mermaid.js, apps.diagrams.net, eraser.io [LinkedIn Event](https://www.linkedin.com/events/computinglunchtimeseminarseries7263114384766345216/comments/) 〰️ [Youtube]() 〰️ [Slides](https://docs.google.com/presentation/d/18Bmd1pW4HRfr7PZ1Ivu2c6ytVdEdUMKvVIFNXR3v62c/edit?usp=sharing)
-- (22 NOV 2024) : No lecture this week
-- (29 NOV 2024) E03: Computing Toolbox: Creating a web crawler
-- (06 DEC 2024) E04: Digital Futures Institute Talks: Paul Graham: ORACLE AI - Concepts, tools and applications
+- (Fri 01 NOV 2024) E00: Test Stream: [LinkedIn Event](https://www.linkedin.com/events/7257446354610733057) 〰️ [YouTube](https://www.youtube.com/watch?v=vRrcNi2AKK0) 〰️ [Slides](https://docs.google.com/presentation/d/1CxWLsvV-ea89_S2ps870qqg_NdAbIYUOD9rQty9oYpc/edit?usp=sharing)
+- (Fri 08 NOV 2024) E01: The Future of AI in Business: Opportunities and Challenges [LinkedIn Event](https://www.linkedin.com/events/7260595382986940416/about/) 〰️[YouTube]() 〰️ [Slides](https://docs.google.com/presentation/d/1LUT4MesutVMlErulYvSeMo2rVzllRumNuFi8vq28riA/edit?usp=sharing)
+- (Fri 15 NOV 2024) E02: Computing Toolbox: 5 best Diagrammes as code tools (mermaid.js, apps.diagrams.net, eraser.io [LinkedIn Event](https://www.linkedin.com/events/computinglunchtimeseminarseries7263114384766345216/comments/) 〰️ [Youtube]() 〰️ [Slides](https://docs.google.com/presentation/d/18Bmd1pW4HRfr7PZ1Ivu2c6ytVdEdUMKvVIFNXR3v62c/edit?usp=sharing)
+- (Fri 22 NOV 2024) : No lecture this week
+- (Fri 29 NOV 2024) E03: Computing Toolbox: Creating a web crawler
+- (Fri 06 DEC 2024) E04: Digital Futures Institute Talks: Paul Graham: ORACLE AI - Concepts, tools and applications
 - (20 DEC 2024) E05: The new UK Data Bill: an overview, challenges and opportunities
 
 [break for Christmas]
- 
-- (10 JAN 2025) : no lecture this week
-- (17 JAN 2025) E06: Computing Toolbox: Github: Version control and issue tracking, Project management tools
-- (24 JAN 2025) E07: Computing Toolbox: Github: Codespaces
-- (31 JAN 2025) E08: Computing Toolbox: Github: Automation and Orchestration
-  
-- (07 FEB 2025) E09: Digital Transformation Strategies for SMEs
-- (14 FEB 2025) E10:
-- (21 FEB 2025) E11:
-- (28 FEB 2025) E12:
 
-- (07 MAR 2025) E13:
-- (14 MAR 2025) E14:
-- (21 FEB 2025) E15:
-- (28 MAR 2025) E16: 
+# S01 - meetings are on Wednesdays at 12.30
+ 
+
+- (Wed 29 JAN 2025) E06: Computing Toolbox: Github: Codespaces
+- (Wed 05 FEB 2025) E07: Computing Toolbox: Github: Automation and Orchestration 
+- (Wed 12 FEB 2025) E09: Digital Transformation Strategies for SMEs
+- (Wed 19 FEB 2025) E10:
+- (Wed 26 FEB 2025) E11:
+- (Wed 05 MAR 2025) E12:
+- (Wed 12 MAR 2025) E13:
+- (Wed 26 MAR 2025) E14:
+- (Wed 02 APR 2025) E15:
+
+[break for Easter]
+
+
 
 
 <!--
